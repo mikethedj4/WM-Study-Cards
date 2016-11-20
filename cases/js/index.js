@@ -40,7 +40,7 @@ var btnTicket = document.querySelector("[data-place=ticket]"),
     countDown = function() {
       count.textContent = counter;
 
-      if (counter === -1) {
+      if (counter === 0) {
         clearInterval(interval);
         reset.textContent = "";
         location.reload(true);
