@@ -24,7 +24,7 @@ var btnTicket = document.querySelector("[data-place=ticket]"),
       "To pickup an appliance at a charge",
       "One time yard waste pickup",
       "As a return trip to service after their schedualed pickup time",
-      "To change a setup fee for new customers",
+      "To charge a setup fee for new customers",
       
       "General adjustment to wave a charge off a customers bill",
       "To move a credit balance from one account to another",
