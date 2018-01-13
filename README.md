@@ -10,4 +10,4 @@ MIT
 
 ### Author
 
-- [michael schwartz](http://mikethedj4.github.io/)
+- [michael schwartz](http://michaelsboost.github.io/)
